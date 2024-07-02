@@ -1,5 +1,5 @@
 # End-To-End-Data-Engineering-Project-Using-Snowflake
-Image/Snowflake Logo.png
+![Snowflake](Image/Snowflake_Logo.png)
 ## Overview
 
 Welcome to my data engineering project repository, a comprehensive resource for cricket analytics. The project, built end-to-end, begins with ingesting data from JSON files, processes it through multiple layers, and culminates in a consumption layer for analytics. The results of these analytics can be conveniently visualized using a Snowsight dashboard. This repository serves as a one-stop solution for both the project’s code and its documentation. Enjoy exploring!
