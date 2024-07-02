@@ -1,0 +1,3 @@
+--lets quicly validate the data set.
+SELECT * FROM CRICKET.CLEAN.MATCH_DETAIL_CLEAN
+where match_type_number = 4671
